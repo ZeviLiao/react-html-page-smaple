@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zeviPage/static/css/main.d1b05096.chunk.css",
+    "main.js": "/zeviPage/static/js/main.4af97aaf.chunk.js",
+    "main.js.map": "/zeviPage/static/js/main.4af97aaf.chunk.js.map",
+    "runtime-main.js": "/zeviPage/static/js/runtime-main.56a78b2d.js",
+    "runtime-main.js.map": "/zeviPage/static/js/runtime-main.56a78b2d.js.map",
+    "static/js/2.b6fabe4d.chunk.js": "/zeviPage/static/js/2.b6fabe4d.chunk.js",
+    "static/js/2.b6fabe4d.chunk.js.map": "/zeviPage/static/js/2.b6fabe4d.chunk.js.map",
+    "index.html": "/zeviPage/index.html",
+    "precache-manifest.dd35ed7ba28940ca0ce195f1a7ac29d9.js": "/zeviPage/precache-manifest.dd35ed7ba28940ca0ce195f1a7ac29d9.js",
+    "service-worker.js": "/zeviPage/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/zeviPage/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b6fabe4d.chunk.js.LICENSE.txt": "/zeviPage/static/js/2.b6fabe4d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/zeviPage/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56a78b2d.js",
+    "static/js/2.b6fabe4d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4af97aaf.chunk.js"
+  ]
+}
