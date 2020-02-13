@@ -1,10 +1,5 @@
-class CommentBox extends React.Component {
-  constructor(props) {
-    super(props)
-  }
-  render() {
-    return <div>hello</div>
-  }
+const CommentBox = () => {
+  return <div>hello1</div>
 }
 
 ReactDOM.render(<CommentBox />, document.getElementById('container'))
